@@ -11,4 +11,3 @@ This is where your tag line wiil go
 [My Fav Website](https://www.amazon.ca)
 
 ![Fender telecaster guitar](images/tele.jpg)
-
