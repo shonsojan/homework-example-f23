@@ -1,13 +1,14 @@
 # Team Name
-This is where your tag line wiil go
+
+This is where your tag line go
 
 ## Team Member 1
-**Hobbies:**
+**Hobbie:** Playing Guitar
 **Fav Movies:**
 1. Batman
-2. The avengers
-***Bold and Italics***
+2. The Avengers
+***Bold and Italic***
 
-[My Fav Website](https://www.amazon.ca)
+[My fav Website](http://www.amzon.ca)
 
-![Fender telecaster guitar](images/tele.jpg)
+![fender telecaster guitar](images/tele.jpg)
