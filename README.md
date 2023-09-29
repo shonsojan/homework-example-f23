@@ -9,6 +9,6 @@ This is where your tag line go
 2. The Avengers
 ***Bold and Italic***
 
-[My fav Website](http://www.amzon.ca)
+[My fav Website](http://www.amazon.ca)
 
 ![fender telecaster guitar](images/tele.jpg)
